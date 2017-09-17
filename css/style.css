@@ -165,10 +165,9 @@ a:active, a:visited, a:focus {
 	color:#333;
 	text-decoration: none;	
 }
-#link-sample1, #link-sample2,  #link-sample3 {
-	display: inline;
 
-}
+
+
 
 
 @media (min-width: 0px) and (max-width: 767px) {
@@ -255,7 +254,6 @@ Modal window
 }
 .cd-modal p {
   line-height: 1.6;
-  margin: 0 auto;
   max-width: 800px;
 }
 .cd-modal .modal-close {
