@@ -165,10 +165,7 @@ a:active, a:visited, a:focus {
 	color:#333;
 	text-decoration: none;	
 }
-
-
-
-
+ 
 
 @media (min-width: 0px) and (max-width: 767px) {
 	html {
@@ -255,6 +252,7 @@ Modal window
 .cd-modal p {
   line-height: 1.6;
   max-width: 800px;
+  margin-bottom: 1rem;
 }
 .cd-modal .modal-close {
   /* 'X' icon */
