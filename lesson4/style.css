@@ -1,0 +1,44 @@
+body{
+  background: url("https://cdn.pixabay.com/photo/2012/04/13/14/02/books-32522_960_720.png") no-repeat 50% 8% #cccccc;
+  background-size: 20%; 
+  text-indent: 30px;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+ }
+h1 {
+  text-align: center;
+  font-size: 50pt;
+}
+a {
+  text-decoration: none;
+  color:black;
+}
+.chapter-1 {
+padding: 30px 10px;
+}
+.bold {
+  font-weight: bold;
+}
+.through {
+  text-decoration: line-through;
+}
+.italic {
+  font-style: italic;
+}
+.content, .end-image {
+  display: inline-block;  
+}
+.end-image {
+  background: url(https://cdn.pixabay.com/photo/2017/01/18/12/33/session-1989711_960_720.png) no-repeat ;
+  background-size: contain;
+ border:2px solid black;
+  height:100px;
+  width: 100px;
+  margin: 0 37%; 
+}
+.end {
+  font-size: 40px;
+  text-transform: uppercase;
+}

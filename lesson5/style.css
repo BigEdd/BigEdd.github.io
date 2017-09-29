@@ -1,0 +1,173 @@
+body{
+  background: url("https://2.downloader.disk.yandex.ru/preview/6957c5d1a45dc11af0fc8c9f4eaccd088863e52d2f4a1bc2d20b8843b9738ac8/inf/PCU7kfTIpKPzFfU_a1GrGC64WpPQN7Wg8h1pP2Yw4cdt-VyUi6JpJqncTjk3RIavCtyc5DSul1tJifVGG4gdgA%3D%3D?uid=316159254&filename=skull-1193784_640.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=1280x680") no-repeat 50% 8% #cccccc;
+  background-size: 20%; 
+  }
+h4 a {
+  text-decoration: none;
+  color: #000;
+  margin: 10px;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+ }
+h1 {
+  text-align: center;
+  font-size: 50pt;
+  text-indent: 30px;
+}
+.chapter-1 {
+padding: 30px 10px;
+}
+.bold {
+  font-weight: bold;
+}
+.through {
+  text-decoration: line-through;
+}
+.italic {
+  font-style: italic;
+}
+.content, .end-image {
+  display: inline-block;  
+}
+.end-image {
+  background: url("https://3.downloader.disk.yandex.ru/preview/4d2e111263db096311eb47c5cf3ff56b28c07bea4e9a7c5c1324a5463ba66731/inf/pDhHRjjEbydR4q-yelgzvVJJ_3_azjmlq3ixBy_wYWFi13YvdJ2irMpvXzqCbig_75bTidBgj69jDN_nuDRQvg%3D%3D?uid=316159254&filename=horror-563247_640.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=1280x680") no-repeat ;
+  background-size: contain;
+ border:2px solid black;
+  height: 141px;
+  width: 199px;
+  margin: 0 35%;
+}
+.end {
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.five {
+  background: black;
+  color:#fff; 
+  width: 480px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.menu {
+  margin: 0 50px;
+  width: 200px;
+}
+ol{
+	counter-reset: li;
+	list-style: none;
+	*list-style: decimal;
+	padding: 0;
+	margin-bottom: 0;
+	text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  }
+.rounded-list a{
+	position: relative;
+	display: block;
+	padding: 0 1em;
+	margin: 0;
+	background: #cccccc;
+	color: #444;
+	text-decoration: none;
+	-moz-border-radius: .3em;
+	-webkit-border-radius: .3em;
+	border-radius: .3em;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;	
+}
+
+.rounded-list a:hover{
+	background: #AFAFAF;
+}
+
+.rounded-list a:hover:before{
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+	transform: rotate(360deg);	
+}
+
+.rounded-list a:before{
+	content: counter(li);
+	counter-increment: li;
+	position: absolute;	
+	left: -1.3em;
+	top: 50%;
+	margin-top: -1.2em;
+	background: #0095FF;
+	height: 2em;
+	width: 2em;
+	line-height: 2em;
+	border: .1em solid #fff;
+	text-align: center;
+	font-weight: bold;
+	-moz-border-radius: 2em;
+	-webkit-border-radius: 2em;
+	border-radius: 2em;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;  
+}
+.rectangle-list a{
+	position: relative;
+	display: block;
+	padding: 0;	
+	margin: 0 50px;
+	background: #ccc;
+	color: #444;
+	text-decoration: none;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;	
+}
+
+.rectangle-list a:hover{
+	background: #AFAFAF;
+}	
+
+.rectangle-list a:before{
+	content: counter(li);
+	counter-increment: li;
+	position: absolute;	
+	left: -2.5em;
+	top: 50%;
+	margin-top: -1em;
+	background: #0095FF;
+	height: 2em;
+	width: 2em;
+	line-height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.rectangle-list a:after{
+	position: absolute;	
+	content: '';
+	border: .5em solid transparent;
+	left: -1em;
+	top: 50%;
+	margin-top: -.5em;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;				
+}
+
+.rectangle-list a:hover:after{
+	left: -.5em;
+	border-left-color: #0095FF;				
+}
