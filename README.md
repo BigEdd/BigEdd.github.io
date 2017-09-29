@@ -2,4 +2,4 @@
 
 # Терихов Эдуард
 Домашние задания.  
-[Урок 1][BigEdd.github.io/lesson1/Screenshot_1.jpg]
+[https://github.com/BigEdd/BigEdd.github.io/blob/master/lesson1/Screenshot_1.jpg][Урок 1]
