@@ -1,7 +1,9 @@
 
 
 # Терихов Эдуард
-[сайт из Интенсива "Быстрый старт в веб-разработке"](https://bigedd.ru "сайт на макхост")
+[сайт из Интенсива "Быстрый старт в веб-разработке"](https://bigedd.ru "сайт на макхост")  
+  
+  
 Домашние задания.  
 [Урок№1](https://github.com/BigEdd/BigEdd.github.io/blob/master/lesson1/Screenshot_1.jpg "Домашнее задание №1")  
 [Урок№2](https://github.com/BigEdd/BigEdd.github.io/tree/master/Lesson2 "Домашнее задание №2")  
