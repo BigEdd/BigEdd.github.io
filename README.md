@@ -18,5 +18,5 @@
 [Урок№11](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson11 "Домашнее задание №11")  
 [Урок№12](https://github.com/BigEdd/BigEdd.github.io/blob/master/README.md "Домашнее задание №12")  
 [Урок№13](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson13/src "Домашнее задание №13")  
-
-
+[Практика часть 1](https://github.com/BigEdd/BigEdd.github.io/tree/master/practice1/src "Практика №1")  
+[Урок№14](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson14/src "Домашнее задание №14")
