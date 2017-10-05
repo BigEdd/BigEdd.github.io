@@ -177,3 +177,18 @@ section {
     text-align: center;
   }
 }
+@media (max-width: 520px) {
+  .main-title h1 {
+    font-size: 3rem;
+    }
+}
+@media (max-width: 390px) {
+  .main-title h1 {
+    font-size: 2rem;
+    }
+}
+@media (max-width: 270px) {
+  .main-title h1 {
+    font-size: 1.5rem;
+    }
+}
