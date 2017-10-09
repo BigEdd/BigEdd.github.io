@@ -24,5 +24,6 @@
 [Урок№15](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson15 "Домашнее задание №15")  
 [Практика часть 3](https://github.com/BigEdd/BigEdd.github.io/tree/master/practice3/src "Практика №3")  
 [Урок№16](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson16/src "Домашнее задание №16")  
-[Практика часть 4](https://bigedd.github.io/practice4/src/ "Практика №4")   
+[Практика часть 4](https://bigedd.github.io/practice4/src/ "Практика №4")  
+[Урок№17](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson17/src "Домашнее задание №17")  
 
