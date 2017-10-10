@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>lesson18</title>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/tytabs.jquery.min.js"></script>
+<link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="wrap">
+  <div class="center">
+  <p>&nbsp;</p>
+  
+  <div id="tabsholder">
+
+      <ul class="tabs">
+          <li id="tab1">Вход</li>
+          <li id="tab2">Регистрация</li>
+      </ul>
+
+        <div class="contents marginbot">
+          <div class="bord">
+            <div id="content1" class="tabscontent">
+            <form action="#">              
+              <input class="input" id="name" type="text" placeholder="Ваше имя">          
+              <input class="input" id="password" type="password" placeholder="Пароль">
+              <a class="remind" href="#">Забыли пароль?</a>
+              <label for="check">
+                <input id="check" type="checkbox">
+                Напомнить мне
+              </label>
+              <input class="btn" type="button" value="Войти">
+            </form>              
+          </div>
+          <div id="content2" class="tabscontent namber2">
+            <form action="#">              
+              <input class="input" id="name" type="text" placeholder="Ваше имя">          
+              <input class="input" id="password" type="password" placeholder="Пароль">
+              <input class="input margin-bottom" id="password" type="password" placeholder="Повторите пароль">
+              <label for="check">
+                <input id="check" type="checkbox">
+                показать пароль
+              </label>
+              <input class="btn-2" type="button" value="Зарегистрироваться">
+            </form>
+          </div> 
+          </div>         
+        </div>
+  </div>
+</div>
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+    $("#tabsholder").tytabs({
+              tabinit:"1",
+              fadespeed:"fast"
+              });
+    $("#tabsholder2").tytabs({
+              prefixtabs:"tabz",
+              prefixcontent:"contentz",
+              classcontent:"tabscontent",
+              tabinit:"2",
+              catchget:"tab2",
+              fadespeed:"normal"
+              });
+});
+</script>
+</body>
+</html>
