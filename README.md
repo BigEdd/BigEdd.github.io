@@ -28,5 +28,7 @@
 [Урок№17](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson17/src "Домашнее задание №17")  
 [Урок№18 часть 1](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson18/src "Домашнее задание №18_1")  
 [Урок№18 часть 2](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson18_2/src "Домашнее задание №18_2")  
-[Урок№19](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson19/src "Домашнее задание №19")
+[Урок№19](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson19/src "Домашнее задание №19")  
+[Урок№20](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson20/src "Домашнее задание №20")
+
 
