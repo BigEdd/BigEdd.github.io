@@ -34,6 +34,7 @@
 [Практика часть 7](https://bigedd.github.io/practice7/src/ "Практика №7")  
 [Урок№20](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson20/src "Домашнее задание №20")  
 [Практика часть 8](https://bigedd.github.io/practice8/src/ "Практика №8")  
-[Практика часть 9](https://bigedd.github.io/practice9/src/ "Практика №9")
+[Практика часть 9](https://bigedd.github.io/practice9/src/ "Практика №9")  
+[Практика часть 10](https://bigedd.github.io/practice10/src/ "Практика №10")
 
 
