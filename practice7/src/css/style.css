@@ -402,6 +402,8 @@ section {
   }
   .wrap-block {
     text-align: center;
+    position: relative;
+    z-index:8;
   }
 }
 @media (max-width: 520px) {
