@@ -442,8 +442,10 @@ section {
   .header {
     text-align: center;
   }
-  .wrap-block {
+ .wrap-block {
     text-align: center;
+    position: relative;
+    z-index:8;
   }
   .features-block p {
     width: 60%;
