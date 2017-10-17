@@ -37,6 +37,7 @@
 [Урок№21](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson21/src "Домашнее задание №21")  
 [Практика часть 9](https://bigedd.github.io/practice9/src/ "Практика №9")  
 [Урок№22](https://github.com/BigEdd/BigEdd.github.io/tree/master/lesson22/src "Домашнее задание №22")  
-[Практика часть 10](https://bigedd.github.io/practice10/src/ "Практика №10")
+[Практика часть 10](https://bigedd.github.io/practice10/src/ "Практика №10")  
+[Урок по БЭМ](https://bigedd.github.io/lessonBEM/src/ "Домашнее задание БЭМ") 
 
 
