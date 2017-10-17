@@ -1,0 +1,127 @@
+body {
+  background-color: #ccc;
+  font-family: 'Montserrat', sans-serif;
+  color: #343e5c;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  min-height: 150px;
+  margin: 0;
+  padding: 0 100px;
+  background-color: #fff;
+  font-weight: 800;
+}
+.header__nav_top,
+.header__menu_top_one,
+.header__basket,
+.header__nav_bottom,
+.header__menu_bottom_one,
+.header__basket_block {
+  display: flex;
+  align-items: center;
+}
+.header__link {
+  text-decoration: none;
+  color: #000;
+}
+.header__link_bottom {
+  color: #ccc;
+}
+.header__link_bottom:focus {
+  color: #000;
+}
+.header__nav_top {
+  padding: 20px;
+}
+.header__logo {
+  flex-grow: 2;
+}
+.header__menu_top_one {
+  margin: 0 50px;
+  justify-content: space-around;
+  flex-grow: 3;
+  list-style: none;
+}
+.header__basket,
+.header__basket_block {
+  margin: 0 20px;
+}
+.header__basket_cart {
+  margin: 0 5px;
+}
+.header__basket_value {
+  display: inline-block;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  background-color: #e3e8f0;
+  border: 4px solid #e3e8f0;
+  border-radius: 20px;
+}
+.header__basket_btn {
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  width: 85px;
+  height: 20px;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+}
+.header__nav_bottom {
+  justify-content: space-around;
+  color: #ccc;
+}
+.header__menu_bottom_one {
+  padding: 20px;
+  margin: 0 400px 0 0;
+  justify-content: space-between;
+  flex-grow: 5;
+  list-style: none;
+}
+.header__support {
+  flex-grow: 2;
+  color: #ccc;
+}
+.header__search {
+  flex-grow: 2;
+}
+.header__search_input {
+  outline: none;
+  background: #ffffff url(../img/magnifier-tool_icon.svg) no-repeat 1px center;
+  background-size: 12%;
+  border: none;
+  padding: 0 35px;
+  width: 200px;
+  height: 30px;
+}
+.main {
+  margin: 0;
+  padding: 0;
+  height: 500px;
+  color: #fff;
+  background: #1c1e23 url(../img/iphone_6.png) 50% 50% no-repeat;
+}
+.main__content {
+  width: 510px;
+  padding: 100px 0 0 200px;
+}
+.main__content_title {
+  font-size: 42px;
+  font-weight: 700;
+}
+.main__content_main-text {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.main__form_btn {
+  width: 170px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: #2754eb;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+}
